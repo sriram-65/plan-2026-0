@@ -1,0 +1,62 @@
+PYTHON udemy+Youtube+Chatgpt 
+1.Password Generator 
+2.Quiz Game 
+3.Study About File Operations 
+4.Build Personal Finanzie Tracker 
+5.*args , **kwrags , Decorators , Generators 
+6.Classes and Objects with Chatgpt 
+7.Stremlit (with One Project) 
+8.Start Pattern Printing Programs Pratice 
+9.Start Studying about Collection and iter Module 
+10.Multitherdaing (Brocode) 11.Tkinter (Udemy) 
+12.Flask JWT Auth (Backend=>Python , Mongodb , Authtoken , Refreshtoken with Google Oauth no firebase , Password Reset , Email Verfication)
+
+
+1 Month Plan
+
+Python Learning and Projects:
+1.Password Generators
+2.Quiz Game 
+3.Study About File Operations 
+4.Build Personal Finanzie Tracker 
+5.*args , **kwrags , Decorators , Generators 
+6.Classes and Objects with Chatgpt
+7.Tkinter Basics
+
+
+Plan for 4 months
+Main Goal:
+
+1.Mastering Python Programming
+2.Top on GFG 
+3.Build Resume and Portfolio
+3.Perfect GITHUB Profile
+4.Must Learned the GIT vision Control fully
+5.Must completed 5+ Python Flask Backend Based Project
+6.Must Completed 3+ Full Stack MERN Project (Including My AI Pdf Reader Project)
+7.One Streamlit Project
+8.Start N8N Stuyding
+
+
+
+Python
+
+Password Generator 
+Quiz Game 
+Study About File Operations 
+FILE OPERATIONS
+Build Personal Finanzie Tracker 
+LEGB RULE
+GENERATORS
+DECORATORS
+*Args , **kwrags
+Classes and Objects 
+Tkinter Basics 
+
+
+
+
+
+
+
+
