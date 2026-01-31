@@ -30,7 +30,7 @@ Main Goal:
 1.Mastering Python Programming
 2.Top on GFG 
 3.Build Resume and Portfolio
-3.Perfect GITHUB Profile
+3.Perfect GITHUB Profile and maintain neat linkdin profile 
 4.Must Learned the GIT vision Control fully
 5.Must completed 5+ Python Flask Backend Based Project
 6.Must Completed 3+ Full Stack MERN Project (Including My AI Pdf Reader Project)
@@ -52,6 +52,7 @@ DECORATORS
 *Args , **kwrags
 Classes and Objects 
 Tkinter Basics 
+
 
 
 
