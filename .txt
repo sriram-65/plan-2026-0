@@ -25,6 +25,7 @@ Study About File Operations
 FILE OPERATIONS
 Build Personal Finanzie Tracker proj
 LEGB RULE
+SETS
 GENERATORS
 DECORATORS
 *Args , **kwrags
@@ -54,5 +55,6 @@ Overfitting vs underfitting
 Loss function
 Optimization (gradient descent idea)
 FAISS , Cosine Simlairty , Eculadien Distance
+
 
 
